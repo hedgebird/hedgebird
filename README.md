@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="icon.png" width="140"><br><br>
+  <img src="icon.png" width="140">
 </p>
-useful little things<br>
-made with intention
+
+<br>
+
+<h2 align="center">hedgebird</h2>
+
+<p align="center">
+  useful little things<br>
+  made with intention
 </p>
